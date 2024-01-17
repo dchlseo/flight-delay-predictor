@@ -1,4 +1,4 @@
-# 항공편 지연 예측기 (Flight Delay Predictor)
+# 항공편 출발 지연 예측기 (Flight Departure Delay Predictor)
 <div align="center">
     <img width="369" alt="img" src="https://github.com/ing970/flight-delay-predictor/assets/70427747/73555579-1bad-4cc7-b540-25e261606456">
 </div>
